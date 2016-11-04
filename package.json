@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/BobbieBarker/custom-eslint-rules.git"
+    "url": "git+ssh://git@github.com:BobbieBarker/custom-eslint-rules.git"
   },
   "keywords": [
     "eslint",
@@ -18,5 +18,5 @@
   "peerDependencies": {
     "eslint": "^2.9.0",
     "eslint-plugin-import": "^1.8.0"
-  },
+  }
 }
