@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-bobbiebarker",
+  "version": "1.0.0",
+  "description": "custom eslint rule set",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BobbieBarker/custom-eslint-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "es6",
+    "moovel"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/BobbieBarker/custom-eslint-rules.git#readme",
+  "peerDependencies": {
+    "eslint": "^2.9.0",
+    "eslint-plugin-import": "^1.8.0"
+  },
+}
